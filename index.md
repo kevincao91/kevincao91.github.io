@@ -15,6 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+![This is an image](./images/belt_1.jpg)
+
 - Bulleted
 - List
 
