@@ -36,6 +36,16 @@ image2
 [Link](url) and ![Image](src)
 ```
 
+image1
+![This is an image](./images/belt_1.jpg)
+
+
+image2
+<div style="color:#0000FF" align="center">
+<img src="./images/belt_1.jpg" width="860"/>
+</div>
+
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
