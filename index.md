@@ -11,17 +11,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 video
 <!-- mp4格式 -->
-<video id="video" controls="" preload="none" poster="./videos/belt_15s.png">
+<div style="color:#0000FF" align="center">
+<video id="video" controls="controls" preload="none" width="256" poster="./videos/belt_15s.png">
 <source id="mp4" src="./videos/belt_15s.mp4" type="video/mp4">
 </video>
-
-image1
-![This is an image](./images/belt_1.jpg)
-
+</div>
 
 image2
 <div style="color:#0000FF" align="center">
-<img src="./images/belt_1.jpg" width="860"/>
+<img src="./images/belt_1.jpg" width="256"/>
 </div>
 
 
