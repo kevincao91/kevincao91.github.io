@@ -15,7 +15,10 @@
 
 ## Projects
 
-The following is a brief introduction to my personal artificial intelligence landing project
+The following is a brief introduction to my personal artificial intelligence landing project.
+
+以下是我个人人工智能落地项目的一些简单介绍。
+
 
 ### 输料带异常状态检测系统
 
@@ -30,7 +33,7 @@ The following is a brief introduction to my personal artificial intelligence lan
 - 项目成果：已在生产环境有效监测超半年，进入全国小批推广，正在进行全国12个站点的部署工作。
 
 
-- 项目宣传视频
+- 宣传视频:
 <div style="color:#0000FF" align="center">
 <video id="video" controls="controls" preload="none" width="512" poster="./videos/belt_15s.png">
 <source id="mp4" src="./videos/belt_15s.mp4" type="video/mp4">
@@ -38,7 +41,7 @@ The following is a brief introduction to my personal artificial intelligence lan
 </div>
 
 
-- 项目演示图片
+- 演示图片:
 <div style="color:#0000FF" align="center">
 <img src="./images/belt_1.jpg" width="512"/>
 </div>
@@ -52,4 +55,5 @@ The following is a brief introduction to my personal artificial intelligence lan
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
