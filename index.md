@@ -15,6 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+
+
+
 image1
 ![This is an image](./images/belt_1.jpg)
 
@@ -35,6 +38,12 @@ image2
 
 [Link](url) and ![Image](src)
 ```
+
+video
+<!-- mp4格式 -->
+<video id="video" controls="" preload="none" poster="./videos/belt_15s.png">
+<source id="mp4" src="./videos/belt_15s.mp4" type="video/mp4">
+</video>
 
 image1
 ![This is an image](./images/belt_1.jpg)
