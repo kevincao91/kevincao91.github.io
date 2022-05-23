@@ -8,36 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-
-
-
-image1
-![This is an image](./images/belt_1.jpg)
-
-
-image2
-<div style="color:#0000FF" align="center">
-<img src="./images/belt_1.jpg" width="860"/>
-</div>
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 video
 <!-- mp4格式 -->
