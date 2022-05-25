@@ -57,7 +57,7 @@ The following is a brief introduction to my personal artificial intelligence lan
 
 - 项目方案：
 <div style="color:#0000FF" align="center">
-<img src="./images/belt_0.png" width="512"/>
+<img src="./images/dump_0.png" width="512"/>
 </div>
 
 - 项目成果：已在生产环境有效实现卸料流程自动控制，为客户实现操作手减员超50%，卸料提速超50%。
@@ -73,13 +73,16 @@ The following is a brief introduction to my personal artificial intelligence lan
 
 - 演示图片:
 <div style="color:#0000FF" align="center">
-<img src="./images/belt_1.jpg" width="512"/>
+<img src="./images/dump_1.png" width="512"/>
 </div>
 <div style="color:#0000FF" align="center">
-<img src="./images/belt_2.jpg" width="512"/>
+<img src="./images/dump_2.png" width="512"/>
 </div>
 
 ### Support or Contact
 
+We-chat: Kevin_Cao_0
 
+E-mail: kevin_cao_91@163.com
 
+Github: https://github.com/kevincao91
