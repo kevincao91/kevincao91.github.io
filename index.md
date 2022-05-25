@@ -49,9 +49,35 @@ The following is a brief introduction to my personal artificial intelligence lan
 <img src="./images/belt_2.jpg" width="512"/>
 </div>
 
-### 输料带异常状态检测系统
+### 搅拌站智能卸料系统
+
+- 项目描述：研究院无人值守搅拌站规划项目，研发应用于全国搅拌站的卸料阶段车站协同的智能识别控制系统，实现对搅拌
+车的倒车对齐检测、倒车对齐提示，对搅拌站的卸料自动启停、卸料溢料控制，容器化部署提高可用性，为客户提供卸料流
+程全自动控制服务。
+
+- 项目方案：
+<div style="color:#0000FF" align="center">
+<img src="./images/belt_0.png" width="512"/>
+</div>
+
+- 项目成果：已在生产环境有效实现卸料流程自动控制，为客户实现操作手减员超50%，卸料提速超50%。
 
 
+- 宣传视频:
+<div style="color:#0000FF" align="center">
+<video id="video" controls="controls" preload="none" width="512" poster="./videos/dump_122s.png">
+<source id="mp4" src="./videos/dump_122s.mp4" type="video/mp4">
+</video>
+</div>
+
+
+- 演示图片:
+<div style="color:#0000FF" align="center">
+<img src="./images/belt_1.jpg" width="512"/>
+</div>
+<div style="color:#0000FF" align="center">
+<img src="./images/belt_2.jpg" width="512"/>
+</div>
 
 ### Support or Contact
 
