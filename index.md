@@ -20,7 +20,7 @@ The following is a brief introduction to my personal artificial intelligence lan
 以下是我个人人工智能落地项目的一些简单介绍。
 
 
-### 输料带异常状态检测系统
+### 1. 输料带异常状态检测系统
 
 - 项目描述：研究院无人值守搅拌站规划项目，研发应用于全国搅拌站的皮带输料系统异常情况智能检测系统，实现皮带全流程的跑偏、破损和异物的监测，并对检测出的异常事件产生联动报警，提供图像数据回传、事件回溯等服务。
 
@@ -49,7 +49,7 @@ The following is a brief introduction to my personal artificial intelligence lan
 <img src="./images/belt_2.jpg" width="512"/>
 </div>
 
-### 搅拌站智能卸料系统
+### 2. 搅拌站智能卸料系统
 
 - 项目描述：研究院无人值守搅拌站规划项目，研发应用于全国搅拌站的卸料阶段车站协同的智能识别控制系统，实现对搅拌
 车的倒车对齐检测、倒车对齐提示，对搅拌站的卸料自动启停、卸料溢料控制，容器化部署提高可用性，为客户提供卸料流
@@ -78,6 +78,25 @@ The following is a brief introduction to my personal artificial intelligence lan
 <div style="color:#0000FF" align="center">
 <img src="./images/dump_2.png" width="512"/>
 </div>
+
+### 3. 混凝土塌落度在线检测系统
+
+- 项目描述：研究院无人值守搅拌站规划项目，研发应用于全国搅拌站的塌落度在线智能识别系统，实现水泥生产质量的无接
+触式检测，提供卸料中混凝土塌落度判断、生产中塌落度异常报警，为客户提供高效的生产质量监测服务。
+
+- 项目方案：涉及机密。
+
+- 项目成果：已立项为企业最高级别A类项目，为解决混凝土行业塌落度检测难题，提供了创新且有效的技术解决方案。
+
+
+- 演示图片:
+<div style="color:#0000FF" align="center">
+<img src="./images/dump_1.png" width="512"/>
+</div>
+<div style="color:#0000FF" align="center">
+<img src="./images/dump_2.png" width="512"/>
+</div>
+
 
 ### Support or Contact
 
