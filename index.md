@@ -88,13 +88,25 @@ The following is a brief introduction to my personal artificial intelligence lan
 
 - 项目成果：已立项为企业最高级别A类项目，为解决混凝土行业塌落度检测难题，提供了创新且有效的技术解决方案。
 
+- 模型结果：
+
+<div style="color:#0000FF" align="center">
+<img src="./images/tld_0.png" width="512"/>
+</div>
+
+- 演示视频:
+<div style="color:#0000FF" align="center">
+<video id="video" controls="controls" preload="none" width="512" poster="./videos/tld_28s.png">
+<source id="mp4" src="./videos/tld_28s.mp4" type="video/mp4">
+</video>
+</div>
 
 - 演示图片:
 <div style="color:#0000FF" align="center">
-<img src="./images/dump_1.png" width="512"/>
+<img src="./images/tld_1.png" width="512"/>
 </div>
 <div style="color:#0000FF" align="center">
-<img src="./images/dump_2.png" width="512"/>
+<img src="./images/tld_2.png" width="512"/>
 </div>
 
 
